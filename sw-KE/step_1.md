@@ -1,1 +1,1 @@
-Changes that you make in Playmode disappear when you exit Playmode. This is really useful when you just want to try something out. But, it's easy to accidentally make changes in Playmode - make sure you exit Playmode before making changes that you want to keep.
+Changes that you make in Play mode disappear when you exit Play mode. This is really useful when you just want to try something out. But, it's easy to accidentally make changes in Play mode — make sure you exit Play mode before making changes that you want to keep.
