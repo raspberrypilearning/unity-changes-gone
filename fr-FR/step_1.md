@@ -1,0 +1,1 @@
+Les modifications que tu as faites en mode Play disparaissent lorsque tu quittes ce mode. C'est très pratique lorsque tu veux juste essayer quelque chose. Mais c'est facile de faire des modifications par accident. Veille donc à toujours quitter le mode Play avant d'effectuer des modifications que tu souhaites conserver.

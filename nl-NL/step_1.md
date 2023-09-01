@@ -1,0 +1,1 @@
+Veranderingen die je in de Playmode maakt, verdwijnen wanneer je deze verlaat. Dit is erg handig als je gewoon iets wilt uitproberen. Maar het is gemakkelijk om per ongeluk wijzigingen aan te brengen in de Playmode. Zorg er dus altijd voor dat je de Playmode afsluit voordat je wijzigingen aanbrengt die je wilt behouden.
